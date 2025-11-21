@@ -144,8 +144,8 @@
 #### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/TuTu-Code-Ark.git
-cd TuTu-Code-Ark
+git clone https://github.com/zhaotututu/CodeArk.git
+cd CodeArk
 ```
 
 #### 2. 前端依赖
@@ -521,7 +521,7 @@ npm run tauri dev
 
 如有问题或建议，请通过以下方式联系：
 
-- 提交 [GitHub Issue](https://github.com/yourusername/TuTu-Code-Ark/issues)
+- 提交 [GitHub Issue](https://github.com/zhaotututu/CodeArk/issues)
 - QQ 331506796
 - 图图感激您的支持：https://ko-fi.com/zhaotutu
 

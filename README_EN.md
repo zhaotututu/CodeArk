@@ -144,8 +144,8 @@ A **zero-operation automatic backup tool** built for developers, so you never ha
 #### 1. Clone the Project
 
 ```bash
-git clone https://github.com/yourusername/TuTu-Code-Ark.git
-cd TuTu-Code-Ark
+git clone https://github.com/zhaotututu/CodeArk.git
+cd CodeArk
 ```
 
 #### 2. Frontend Dependencies
@@ -521,7 +521,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions or suggestions, please contact via:
 
-- Submit a [GitHub Issue](https://github.com/yourusername/TuTu-Code-Ark/issues)
+- Submit a [GitHub Issue](https://github.com/zhaotututu/CodeArk/issues)
 - QQ 331506796
 - Tutu thanks you for your support: https://ko-fi.com/zhaotutu
 
