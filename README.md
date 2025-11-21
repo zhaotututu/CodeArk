@@ -523,6 +523,7 @@ npm run tauri dev
 
 - 提交 [GitHub Issue](https://github.com/yourusername/TuTu-Code-Ark/issues)
 - QQ 331506796
+- 图图感激您的支持：https://ko-fi.com/zhaotutu
 
 **⭐ 如果觉得有用，请给项目点个星标！**
 

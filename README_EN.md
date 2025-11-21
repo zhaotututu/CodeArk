@@ -523,6 +523,7 @@ For questions or suggestions, please contact via:
 
 - Submit a [GitHub Issue](https://github.com/yourusername/TuTu-Code-Ark/issues)
 - QQ 331506796
+- Tutu thanks you for your support: https://ko-fi.com/zhaotutu
 
 **⭐ If you find it useful, please star the project!**
 
