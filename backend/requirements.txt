@@ -1,0 +1,20 @@
+# Web Framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+
+# WebSocket
+websockets>=14.0
+
+# Database
+sqlmodel>=0.0.22
+
+# Git Operations
+gitpython>=3.1.43
+pygithub>=2.5.0
+
+# File System Monitoring
+watchdog>=6.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+cryptography>=43.0.0
