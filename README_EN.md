@@ -52,10 +52,10 @@ A **zero-operation automatic backup tool** built for developers, so you never ha
 
 ### Who Is It For?
 
-✅ Lazy coders who always forget to `git push`
-✅ Anxious souls worried about sudden power outages or hard drive failures
-✅ Digital nomads needing multi-device code sync
-✅ Cautious types who want version rollback insurance
+✅ Lazy coders who always forget to `git push`  
+✅ Anxious souls worried about sudden power outages or hard drive failures  
+✅ Digital nomads needing multi-device code sync  
+✅ Cautious types who want version rollback insurance  
 ✅ Thesis/critical project safety requirement seekers
 
 ---
